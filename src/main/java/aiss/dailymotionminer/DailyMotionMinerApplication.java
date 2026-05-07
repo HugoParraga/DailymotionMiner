@@ -16,4 +16,6 @@ public class DailyMotionMinerApplication {
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }
+
+    public hola es una prueba
 }
